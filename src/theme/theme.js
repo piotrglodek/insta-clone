@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
-export const light = {
+export const theme = {
   color: {
     accent: '#3897F0',
     action: '#ED4956',
@@ -9,13 +9,6 @@ export const light = {
     black: '#262627',
     white: '#FFFFFF',
   },
-};
-
-// FEATURES:
-// |> dark mode colors
-export const dark = {};
-
-export const theme = {
   fontSize: {
     s: '1.2rem',
     m: '1.4rem',
