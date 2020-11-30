@@ -1,6 +1,6 @@
 <p align="center">
   <a href="instagram-redesign-clone.netlify.app">
-    <img src="https://github.com/piotrglodek/insta-clone/blob/main/logo.png" alt="Insta clone logo">
+    <img src="https://github.com/piotrglodek/insta-clone/blob/main/logo.PNG" alt="Insta clone logo">
   </a>
 </p>
 
