@@ -1,3 +1,9 @@
+<p>
+l: viritej936@aranelab.com
+<br/>
+h: qwerty
+</p>
+
 <p align="center">
   <a href="instagram-redesign-clone.netlify.app">
     <img src="https://github.com/piotrglodek/insta-clone/blob/main/logo.PNG" alt="Insta clone logo">
